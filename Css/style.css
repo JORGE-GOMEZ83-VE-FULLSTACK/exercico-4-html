@@ -1,0 +1,66 @@
+#home {
+    color: black;
+    size: 21px;
+    font-weight: bold; 
+}
+header {
+    border-bottom: 1px solid;
+}
+#titulo {
+    font-weight: black;
+    size: 89px;
+    line-height: 40px;
+    color: #ffb300;
+}
+
+
+
+.foto {
+    width: 883px;
+    height: 374px;
+}
+
+.descri {
+    size: 21px;
+    font-weight: semibold;
+    line-height: 1.61;
+    color: black;
+    padding: 34px;
+    margin: 0px;
+    
+}
+
+.ingrdiente-preparo {
+    border-bottom: 1px solid;
+    padding: 34px;
+}
+
+.ingre {
+    size: 21px;
+    font-weight: semibold;
+    line-height: 21px*1.61;
+    
+}
+
+.massa {
+    size: 21px;
+    font-weight: semibold;
+    line-height: 21px*1.61;
+}
+
+.ip-titulo {
+    size: 34px;
+    color: #ffb300;
+    font-weight: bold;
+    padding: 34px;
+}
+.video {
+    width: 883px;
+    height: 497px;
+}
+
+#inicio {
+    size: 21px;
+    font-weight: black;
+    color: #0037b3;
+}
